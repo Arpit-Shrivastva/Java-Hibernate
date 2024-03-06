@@ -1,1 +1,2 @@
 # Java-Hibernate
+Hibernate is a Java-based object-relational mapping (ORM) framework that simplifies database interactions by mapping Java objects to database tables. It provides a high-level, SQL-free approach to database operations, enabling developers to focus on the Java code and reducing the need for manual SQL queries. Hibernate supports automatic table creation, caching, and transaction management, making it a powerful tool for Java developers working with relational databases.
